@@ -9,7 +9,9 @@
 #end your conditional and your method!!!!!
 
 def fizzbuzz(int)
-  if int % 3 
+  if int % 3 == 0 
+    puts "Fizz"
+  if int
 end
 
 fizzbuzz(17)
