@@ -9,6 +9,7 @@
 #end your conditional and your method!!!!!
 
 def fizzbuzz(int)
+  if int % 3 
 end
 
 fizzbuzz(17)
