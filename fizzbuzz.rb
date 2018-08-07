@@ -8,4 +8,7 @@
   # output fizzbuzz
 #end your conditional and your method!!!!!
 
-def fizzbuzz
+def fizzbuzz(int)
+end
+
+fizzbuzz(17)
