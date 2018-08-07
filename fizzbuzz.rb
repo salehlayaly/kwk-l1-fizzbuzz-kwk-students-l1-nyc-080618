@@ -15,6 +15,7 @@ def fizzbuzz(int)
     puts "Buzz" 
   elsif int % 5 == 0 && int % 3 == 0 
     puts "FizzBuzz"
+  end
 end
 
 fizzbuzz(17)
